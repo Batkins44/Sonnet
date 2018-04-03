@@ -29,7 +29,7 @@ And, thou away, the very birds are mute:\
 console.log("The word orphans appears at character # " + sonnet.indexOf("orphans"));
 console.log("There are " + sonnet.length + " characters in the sonnet");
 
-console.log()
+
 
 let replaceWinter = document.getElementById("replaceWord").addEventListener("click", replaceWord);
 let replaceThe = document.getElementById("replaceThe").addEventListener("click",replaceTotal);
